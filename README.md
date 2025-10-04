@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Axle</h1>
 <h3 align="center">A passionate Frontend Developer from 🇵🇭 who loves crafting smooth, pixel-perfect experiences on the web ✨</h3>
 
-💡 I’m a Web & Mobile Developer with 8+ years of experience — currently focused on **React, Next.js, and Tailwind** magic.<br/>
+💡 I’m a Web & Mobile Developer with 8+ years of experience — currently focused on **React, Next.js, Wordpress and Tailwind** magic.<br/>
 🚀 I enjoy turning complex ideas into simple, elegant interfaces and making the web just a little bit faster every day.
 
 ---
