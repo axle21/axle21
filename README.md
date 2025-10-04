@@ -1,5 +1,6 @@
-<h1 align="center">Hey there 👋, I'm Axle</h1>
-<h3 align="center">A passionate Frontend Developer from 🇵🇭 who loves crafting smooth, pixel-perfect experiences on the web ✨</h3>
+<h1 align="center">Hey there 👋, I'm Axle from 🇵🇭</h1>
+<h3 align="center">Frontend Developer | Turning pixels into <strong>smooth, interactive experiences</strong> ✨</h3>
+h3>
 
 💡 I’m a Web & Mobile Developer with 8+ years of experience — currently focused on **React, Next.js, Wordpress and Tailwind** magic.<br/>
 🚀 I enjoy turning complex ideas into simple, elegant interfaces and making the web just a little bit faster every day.
@@ -8,8 +9,8 @@
 
 - 🌐 Check out my portfolio at **[imaxle.vercel.app](https://imaxle.vercel.app/)**
 - 💼 Currently building amazing things at **[RockSolidDigital](https://www.rcksld.com/)**
-- 🧠 I love working with **React**, **Next.js**, **TypeScript**, and **Docker**
-- ✈️ When I’m not coding, you’ll find me planning my next trip, hitting the gym, or shooting photos 🎞️
+- 🧠 I love working with **React**, **Next.js**, **TypeScript**, **Wordpres** and **Docker**
+- ✈️ When I’m not coding, you’ll find me planning my next trip, hitting the gym 🏋, or shooting photos 📸
 - 📫 Reach me at **rodriguez.imaxle@gmail.com**
 - 🏔️ Motto: _Be Crazy and Delusional._
 
